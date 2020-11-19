@@ -2,6 +2,7 @@
  * 2020-10-17
  * Clase Vertex.
  * @author Julián Andrés Méndez
+ * @author Juan Miguel Vega Caro
  */
 
 package model.structures.directedGraph;

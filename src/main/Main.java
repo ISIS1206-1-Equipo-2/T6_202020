@@ -2,6 +2,7 @@
  * 2020-10-17
  * Clase Controller.
  * @author Julián Andrés Méndez
+ * @author Juan Miguel Vega Caro
  */
 
 package main;

@@ -2,6 +2,7 @@
  * 2020-11-17
  * Clase Digraph.
  * @author Julián Andrés Méndez
+ * @author Juan Miguel Vega Caro
  */
 
 package model.structures.directedGraph;
